@@ -70,7 +70,7 @@ bool DFS_graph(GraphNode *node, std::vector<int> &visit){
 	return true;
 }
 
-class Solution {
+class Solution1 {
 public:
     bool canFinish(int numCourses,
 		std::vector<std::pair<int, int> >& prerequisites) {
